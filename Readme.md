@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication44/Form1.cs)
+* [Program.cs](./CS/WindowsFormsApplication44/Program.cs)
+<!-- default file list end -->
 # How to increase a NavBarControl's scroll speed
 
 
